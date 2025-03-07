@@ -4,6 +4,7 @@
 ### AIM: 
  To learn the basic scripting in Unity and print welcome message in Console window. 
 ### Procedure:
+
 1. Start the program
 2. Open the Unity hub and Create a new 3D project
 3. In Assets window, create the new folder and name it as Scripts
@@ -14,7 +15,8 @@
 8. Add the component Firstscript in inspector window of 3Dobject.
 9. Run the program
 10. Stop the program.
-### Program 
+### Program:
+
 ```
 using System.Collections;
 using System.Collections.Generic;
