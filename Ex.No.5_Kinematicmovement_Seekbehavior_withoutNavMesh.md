@@ -9,7 +9,7 @@ To write a program to simulate the process of seek behavior in Unity without Nav
    In the Hierarchy, right-click → 3D Object → Cube (or Sphere).
    Rename it to Seeker and Reset its position:Select the Seeker, go to Inspector → Transform → Set Position to (0,0,0).
 3. Create the Target Object
-   Right-click in the Hierarchy → 3D Object → Sphere (or any other shape).
+   Right-click in the Hierarchy → 3D Object → Sphere (or any other shape). 
    Rename it to Target. Move it away from Seeker, e.g., set Position to (5, 0, 5).
    Select the Target, add a Material, and change the color. (if needed) 
 4. Adding the Seek Behavior Script
