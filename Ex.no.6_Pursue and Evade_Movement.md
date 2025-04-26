@@ -3,7 +3,7 @@
 ### REGISTER NUMBER : 212223230175
 ### AIM: 
 To write a program to simulate the process of Pursue and Evade behavior in Unity using NavigationMeshAgent. 
-### Algorithm:
+### Algorithm: 
 ```
 1. Create a New Unity Project by Open the  Unity Hub and create a new 3D Project.
 2. Name the project "SteeringBehaviors" and select a location. Click Create.
