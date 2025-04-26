@@ -80,13 +80,13 @@ float movement = Mathf.PingPong(Time.time * moveSpeed, moveDistance) - moveDista
 transform.position = startPos + new Vector3(movement, 0, 0);
 ### Output:
 
+Before Movement:
 
+![426131687-fce17ff6-4328-4296-9887-5f89ecfd65aa](https://github.com/user-attachments/assets/f9d702d2-9cec-4afc-b69a-bad3a030b7a1)
 
+After Movement:
 
-
-
-
-
+![426131720-ac20cc85-5115-4dd6-b752-1090f8d7e812](https://github.com/user-attachments/assets/7c9b30c0-5f8c-481c-91ab-4855545573a6)
 
 ### Result:
 Thus the simple seek behavior was implemented successfully.
